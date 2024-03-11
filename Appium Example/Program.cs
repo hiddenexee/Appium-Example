@@ -68,12 +68,12 @@ namespace Appium_Example
             if (await Login(driver, username, password))
             {
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("[+] Giriş başarılı");
+                Console.WriteLine("[+] Login successful");
             }
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("[-] Giriş başarısız");
+                Console.WriteLine("[-] Login failed");
             }
 
             driver.Quit();
