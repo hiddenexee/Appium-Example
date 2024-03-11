@@ -7,7 +7,7 @@ This project has been prepared to provide information about the use of appium. I
 You can get the device name by typing adb devices in cmd.
 <br>
 You can find out the OS version from the About Phone section.
-<br>
+<br><br>
 You can star the project to support me. Thank you
  
 # Contact:
